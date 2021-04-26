@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNav and Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_home">Ini Fragment Home</string>
+    <string name="fragment_profile">Ini Fragment Profile</string>
+    <string name="name">Miftahur Sidq Aziz</string>
+</resources>
